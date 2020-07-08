@@ -1,0 +1,154 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+  
+}
+h2{
+    font-size: 30px;
+    color: rgb(255, 165, 0);
+}
+.name-highlight{
+    color:rgb(221, 26, 59);
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 40%;
+   float: left;
+    margin-left: 5%;
+    padding-left: 3%;  
+}
+.half-width img{
+  width: 100%;
+}
+section{
+    height: 500px;
+   padding-bottom: 100px;
+}
+
+
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg,lightSalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.header{
+   
+    background-image: url("images/header-bg.png");
+   background-repeat:no-repeat ;
+   background-size: cover;
+  
+  
+  
+}
+.Brigraphy-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.latest-work{
+    background-image:url("images/latest-work-bg.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:right;
+    margin-left:15%;
+    padding-bottom: 10px;
+}
+.latest-work h3{
+   
+    text-align: center;
+    color:blue;
+  
+}
+.side-part{
+    width: 25%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 3%;  
+    height:100% 
+ }
+.clint-part{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+ 
+}
+
+.clint-up-part h2{
+
+   text-align: center ;
+   margin-right: 12%;
+}
+
+.clint-up-part h3{
+   margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    color: palevioletred;
+}
+
+.clint-up-part h4{
+      text-align: center;
+      font-size: 20px;
+      color:black;
+      padding: 15px;
+   }
+
+   .clint-up-part p{
+       
+        text-align:center;
+        margin-left: 30%;
+        margin-right: 30%;
+        padding-bottom: 20px;
+   }
+
+
+
+
+.clint-down-part{
+   background-color:#EC4B74; 
+   width: 50%;
+   height: 35%;
+  margin-left: 25%;
+  border-radius: 10px;
+  box-sizing: border-box;
+  margin-top: 2%;
+  position: relative;
+}
+
+.clint-down-part h4{
+   text-align:center;
+   color:white;
+   font-size: 12px;
+   padding-top: 30px;  
+   
+}
+  
+
+
+.clint-down-part h2{
+    text-align: center;
+    color: white;
+    margin-top:5%;
+    font-size: 18px;
+}
+
+footer p{
+   text-align: center;
+   font-size: 12px;
+   margin-top: 5%;
+   color: grey;
+}
+ 
+
+
